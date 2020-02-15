@@ -1,0 +1,9 @@
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Keylogger.csprojAssemblyReference.cache
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Keylogger.csproj.GenerateResource.cache
+C:\Users\habell\source\repos\Keylogger\bin\Debug\Kylggr.exe.config
+C:\Users\habell\source\repos\Keylogger\bin\Debug\Kylggr.exe
+C:\Users\habell\source\repos\Keylogger\bin\Debug\Kylggr.pdb
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Kylggr.Form1.resources
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Kylggr.Properties.Resources.resources
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Kylggr.exe
+C:\Users\habell\source\repos\Keylogger\obj\Debug\Kylggr.pdb
